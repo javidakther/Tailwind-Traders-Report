@@ -56,6 +56,6 @@ Regional Comparison: Highlights which countries generate the most revenue and cu
 Decision Support: Helps management forecast demand, optimize stock, and focus marketing efforts on top-performing markets.
 
 ### 6.	Screenshots / Demos
-Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
+Show what the dashboard looks like. - ![Alt text](https://github.com/javidakther/Tailwind-Traders-Report/blob/main/Profit%20overview.png)
 Example: ![Dashboard Preview](https://github.com/javidakther/Tailwind-Traders-Report/blob/main/Sales%20overview.png)
 
