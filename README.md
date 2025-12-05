@@ -1,10 +1,10 @@
-# Tailwind-Traders-Report
-Recommended Structure and Order
-### 1.	Project Title / Headline
+# Tailwind Traders Power BI Dashboard Report
+
+### 1.	Project Title 
 📈 Tailwind Traders Power BI Dashboard: Sales and Profit Overview
 An interactive Power BI dashboard built to analyze Tailwind Traders’ business performance, covering sales distribution, product profitability, and customer insights across multiple countries.
 
-## 2. Short Description / Purpose
+## 2. Short Description 
 This Power BI dashboard provides a consolidated view of Tailwind Traders’ key business metrics—sales, revenue, profit margin, stock, and customer loyalty. It helps stakeholders track trends, evaluate performance by product and country, and make data-driven business decisions.
 
 3. Tech Stack
